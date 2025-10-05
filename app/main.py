@@ -22,5 +22,6 @@ def get_weather() -> None:
     )
     print(message)
 
+
 if __name__ == "__main__":
     get_weather()
